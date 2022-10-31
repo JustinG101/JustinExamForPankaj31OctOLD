@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+header {
+    background-color: midnightblue;
+    color:white;
+}
+footer {
+background-color:black;
+margin:auto;
+width: 70%;
+
+
+}
+.wrapper {
+    background-color: rgb(13, 86, 137);
+    color:white;
+    margin: auto;
+}
+.topmenu {
+    background-color: gray;
+    color:black;
+    width:80%;
+    margin: auto;
+    
+    padding: 10px;
+}
+.links {
+    width:20%;
+    background-color:gray;
+    color:white;
+    margin: auto;
+
+}
+#content {
+    margin: auto;
+    border-color: gray;
+    width:40%;
+    background-color:gray;
+    color:white;
+
+}
+.pullquotes {
+    width: 70%;
+    margin: auto;
+}
